@@ -1,0 +1,21 @@
+html, 
+body {
+    height: 100%;
+    background-color: #222d32 !important;
+
+}
+.judul{
+    margin: auto;
+    margin-top: 5%;
+    
+}
+.judul h2{
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.fbox{
+    margin: auto;
+    margin-top: 1%;
+}

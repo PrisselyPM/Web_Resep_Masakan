@@ -1,0 +1,19 @@
+body {
+    height: 100%;
+    background-color: #222d32 !important;
+}
+.j-page{
+    margin: auto;
+    background-color: #2b3235;
+}
+.j-page a{
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+    color: aliceblue;
+}
+.j-name{
+    text-decoration: none;
+    color: #222d32;
+}

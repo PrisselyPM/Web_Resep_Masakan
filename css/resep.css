@@ -1,0 +1,23 @@
+html, 
+body {
+    height: 100%;
+    background-color: #222d32 !important;
+}
+.judul{
+    margin: auto;
+    margin-top: 10%;
+}
+.judul h1{
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.boxz{
+    margin: auto;
+    width: 1000px;
+}
+.cardsu{
+    float: left;
+    margin: 3%;
+}

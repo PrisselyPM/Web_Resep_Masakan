@@ -1,0 +1,31 @@
+html, 
+body {
+    height: 100%;
+    background-color: #222d32 !important;
+}
+.judul{
+    margin: auto;
+    margin-top: 10%;
+}
+.judul h1{
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.boxz{
+    margin: auto;
+    width: 680px;
+}
+.cardsu-l{
+    float: left;
+    margin: 3%;
+}
+.cardsu-r{
+    float: right;
+    margin: 3%
+}
+.j-name{
+    text-decoration: none;
+    color: black;
+}
